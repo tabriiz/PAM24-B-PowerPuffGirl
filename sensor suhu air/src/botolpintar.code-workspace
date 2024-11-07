@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "D:/kuliah/sem 7/mobile/botolpintar"
+		},
+		{
+			"name": "smartbottle",
+			"path": "../../smartbottle"
+		},
+		{
+			"name": "smartbottle2",
+			"path": "../../smartbottle2"
+		},
+		{
+			"name": "sensor suhu air",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
